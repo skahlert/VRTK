@@ -1,3 +1,4 @@
 [submodule "Zinnia.Unity"]
 	path = Dependencies/Zinnia.Unity
-	url = https://github.com/ExtendRealityLtd/Zinnia.Unity.git
+	url =  https://github.com/skahlert/Zinnia.Unity.git
+	branch = configurable-raycast-layers
